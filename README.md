@@ -1,2 +1,2 @@
 # Demo-Repository-
-example for class 2
+# I didnt like the default text 
